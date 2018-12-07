@@ -11,3 +11,5 @@
 #### Méthode 2 : Paiement client
 
 ![Paiement client 1](paiement_client_1.png)
+
+![Paiement client 2](paiement_client_.png)
