@@ -12,4 +12,4 @@
 
 ![Paiement client 1](paiement_client_1.png)
 
-![Paiement client 2](paiement_client_.png)
+![Paiement client 2](paiement_client_2.png)
