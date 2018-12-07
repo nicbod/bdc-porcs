@@ -4,6 +4,10 @@
 
 ### Paramétrage des comptes comptables
 
+![Paiement client 3](paiement_client_3.png)
+
+![Paiement client 4](paiement_client_4.png)
+
 ### Paiement d'un client
 
 #### Méthode 1 : Enregistrer le règlement
